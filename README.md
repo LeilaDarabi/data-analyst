@@ -39,7 +39,18 @@ Power BI, help on gathering data in one place, data modeling, data storage and r
 
 Power BI support different types of charts, grapgs, maps and cards to visualize data and derive insights.
 
-also, data models are used to connect multiple data sources to build a relationship
+Data models are used to connect multiple data sources to build a relationship.
+
+Dara Analysis Expressions(DAX) is a  library of functions and operaions that can be combined to build formulas and expressions in POWER BI desktop. it allows you to creat new calculated columns and measures.
+
+
+
+
+
+
+
+
+
 
 
 
