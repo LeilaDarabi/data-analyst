@@ -35,6 +35,14 @@ Power BI, help on gathering data in one place, data modeling, data storage and r
 - Power BI sever/service - make reports online and share/make them available to different BU
 - Power BI  Mobile-viewing reports
 
+### access to online power bi : https://app.powerbi.com
+
+Power BI support different types of charts, grapgs, maps and cards to visualize data and derive insights.
+
+also, data models are used to connect multiple data sources to build a relationship
+
+
+
 
 
 
